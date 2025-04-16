@@ -1,0 +1,5 @@
+# Ignorar arquivos DOC, DOCX, PDF e ZIP
+*.doc
+*.docx
+*.pdf
+*.zip
