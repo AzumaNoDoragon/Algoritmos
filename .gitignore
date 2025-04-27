@@ -1,6 +1,6 @@
 # Ignorar arquivos DOC, DOCX, PDF e ZIP
-*.doc
-*.docx
-*.pdf
-*.zip
+**/*.doc
+**/*.docx
+**/*.pdf
+**/*.zip
 **/*.exe
