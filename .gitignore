@@ -3,4 +3,4 @@
 *.docx
 *.pdf
 *.zip
-*.exe
+**/*.exe
