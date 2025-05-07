@@ -8,7 +8,7 @@ ser colocado na penúltima posição e assim por diante.
 #include <stdio.h>
 #include <stdlib.h>
 
-#define QTD 6
+#define QTD 7
 
 int main(int argc, char** argv){
 	int *p, i, aux = 0;

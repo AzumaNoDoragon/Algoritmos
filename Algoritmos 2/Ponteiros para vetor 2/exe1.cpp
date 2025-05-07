@@ -28,6 +28,5 @@ int main(int argc, char** argv){
 	
 	printf("\nO maior número digitado foi: %0.2f", maior);
 	
-	
 	return 0;
 }
