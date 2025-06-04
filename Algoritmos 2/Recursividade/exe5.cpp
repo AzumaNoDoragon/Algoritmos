@@ -4,13 +4,13 @@ void contar(int i);
 
 int main(int argc, char** argv)
 {
-	contar(5);
+	contar(1);
 	return 0;
 }
 
 void contar(int i){
-	if(i >= 1){
+	if(i <= 5){
+		contar(i+1);
 		printf("%d\n", i);
-		contar(--i);
 	}
 }
